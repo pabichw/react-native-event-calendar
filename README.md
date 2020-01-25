@@ -11,7 +11,7 @@ Added features:
 Code is garbage so try not to look into it too much. May or may not improve it in the future - most likely the second
 
 ## Demo
-![Booking for rooms](https://gfycat.com/diligenteasygoinggosling)
+![Booking for rooms](demo.gif)
 
 ## Current API (needs an update)
 Property | Type | Description
